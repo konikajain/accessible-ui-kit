@@ -35,17 +35,6 @@ Live Demo → [accessible-ui-kit.vercel.app](https://accessible-ui-kit.vercel.ap
 
 ---
 
-## How it maps to my resume
-
-| Resume bullet | Project section |
-|---|---|
-| *"Enhanced WCAG compliance by 25%"* | All 4 tabs |
-| *"ARIA, Semantic HTML"* | ARIA Labels tab |
-| *"Accessibility best practices in code reviews"* | Form checklist |
-| *"LinkedIn Games — millions of DAU"* | Context for why scale makes this critical |
-
----
-
 ## Key patterns used
 ```jsx
 // Visible focus indicator

@@ -2,7 +2,7 @@
 
 An interactive guide to WCAG 2.1 accessibility patterns — showing the **wrong way vs the right way**, side by side, with real keyboard and screen reader behavior.
 
-Live Demo → [accessible-ui-kit.vercel.app](https://your-actual-url.vercel.app)
+Live Demo → [accessible-ui-kit.vercel.app](https://accessible-ui-kit.vercel.app/)
 
 ---
 

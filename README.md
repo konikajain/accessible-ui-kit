@@ -6,14 +6,6 @@ Live Demo → [accessible-ui-kit.vercel.app](https://accessible-ui-kit.vercel.ap
 
 ---
 
-## Why I built this
-
-At Raja Software Labs I improved accessibility compliance by 25% across LinkedIn Games production UI. This project documents the exact patterns I applied — focus management, ARIA labels, color contrast, and form accessibility.
-
-Most frontend developers treat accessibility as an afterthought. This project shows I treat it as a first-class concern.
-
----
-
 ## What's inside
 
 ### 1. Focus Management — WCAG 2.1.1, 2.4.3

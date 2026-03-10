@@ -95,9 +95,5 @@ Open http://localhost:5173
 ## Other projects
 
 - [React Performance Lab](https://github.com/konikajain/react-perf-dashboard) — useMemo, debounce, throttle, code splitting
-- [GraphQL Search Bar](#) *(coming soon)*
-- [Virtualized Data Table](#) *(coming soon)*
+- [GraphQL Search Bar](https://github.com/konikajain/graphql-search)
 
----
-
-Built by [Konika Jain](https://linkedin.com/in/yourprofile) — Frontend Engineer
